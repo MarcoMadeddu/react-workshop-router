@@ -1,4 +1,4 @@
-export const PageAdmin = () => {
+export default function PageAdmin() {
     return (
         <div>Page Adminn</div>
     )

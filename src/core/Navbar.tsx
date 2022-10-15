@@ -25,6 +25,11 @@ export const Navbar = () => {
               className={setActive}
               to="/settings">Settings</NavLink>
           </li>
+          <li className="nav-item">
+            <NavLink
+              className={setActive}
+              to="/contacts">Contacts</NavLink>
+          </li>
 
         </ul>
       </div>
